@@ -1,0 +1,2 @@
+defmodule UseMaybe do
+end
